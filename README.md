@@ -1,1 +1,1 @@
-# rumimikub
+# rummikub
